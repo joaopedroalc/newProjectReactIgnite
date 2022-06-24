@@ -1,0 +1,17 @@
+.header {
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem 0;
+  width: 100vw;
+  gap: 0.8rem;
+}
+
+.header img {
+  height: 2rem;
+}
+
+.text {
+  color: var(--green-500);
+}
