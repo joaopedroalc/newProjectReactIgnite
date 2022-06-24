@@ -53,8 +53,8 @@ export function Post(){
       </form>
 
       <div className={styles.commentList}>
-        <Comment />
-        <Comment />
+        <Comment text="Oi , bem vindo johny" />
+        <Comment text="Oi , bem vinda maria" />
         <Comment />
       </div>
     </article>
